@@ -3,6 +3,7 @@
 # Social
 * twitter @horllymobile
 
+# Create a readme file if not exit
 * touch README.md
 # for fresh readme text use command below
 * echo "hello world " > README.md
