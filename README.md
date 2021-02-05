@@ -1,3 +1,7 @@
+# Authored By James Abraham James Olamide
+# Social
+* twitter @horllymobile
+
 * touch README.md
 # for fresh readme text use command below
 * echo "hello world " > README.md
